@@ -1,0 +1,18 @@
+.important {
+   margin:25px;
+   padding: 15px;
+   border: 4px solid chartreuse;
+   background-color: appworkspace;
+   width: 400px;
+}
+.more { 
+    font-family: Times new roman;
+}
+#define-html {
+    background-color: cadetblue;
+    font-size: 16px;
+}
+#staJeWww{
+    color:green;
+}
+

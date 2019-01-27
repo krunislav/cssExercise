@@ -1,0 +1,23 @@
+#div1, #div2 {
+    width:300px;
+    height:200px;
+    padding:20px;
+   margin:30px;
+}
+#div1 {
+    box-sizing: border-box;
+    border:1px solid green;
+}
+#div2 {
+    box-sizing: border-box;
+    border:1px solid blue;
+}/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 1, 2018, 7:26:38 PM
+    Author     : qa-popodne
+*/
+
